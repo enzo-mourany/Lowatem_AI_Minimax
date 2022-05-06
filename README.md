@@ -1,4 +1,7 @@
 <h1 align="center">Welcome to Lowatem_AI_Minimax 👋</h1>
+
+<img src="./lowatem.png">
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
